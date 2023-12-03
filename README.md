@@ -10,3 +10,7 @@ Task:
 - It is prohibited to use autograd from neither PyTorch nor numpy
 
 Requirements:
+
+```powershell
+pip3 install -r requirements.txt
+```
