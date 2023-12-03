@@ -8,3 +8,5 @@ Task:
   - relu and softmax activations
   - MSE loss
 - It is prohibited to use autograd from neither PyTorch nor numpy
+
+Requirements:
